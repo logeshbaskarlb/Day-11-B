@@ -1,0 +1,49 @@
+body{
+    border: 2px solid black;
+    gap: 20px;
+    padding: 10px;
+}
+input{
+    border-radius:5%;
+}
+span{
+    color: red;
+}
+.email{
+    gap: 20px;
+    width: 400px;
+}
+.container{
+    gap: 20px;
+    flex-wrap: wrap;
+}
+.name{
+    display: flex;
+    gap: 10px;
+    margin: 10px;
+    flex-wrap: wrap;
+}
+.input-1{
+    display: flex;
+    flex-wrap: wrap;
+}
+#star:hover{
+    color: orange;
+}
+table{
+    flex-wrap: wrap;
+}
+tbody,th,td{
+    padding: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.button{
+    padding: 10px;
+}
+.comment{
+    width: 70%;
+    height: 100px;
+    padding: 10px;
+    flex-wrap: wrap;
+}
